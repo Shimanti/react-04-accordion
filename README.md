@@ -18,3 +18,6 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
+
+# Run
+https://shimanti-react-accordion.netlify.app
