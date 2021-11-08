@@ -13,7 +13,7 @@ const questions = [
   },
   {
     id: 3,
-    title: 'Why do you need to learn so much?',
+    title: 'Why do I need to learn so much?',
     info:
       "You don't. If you learn HTML and CSS, you can revamp websites from being unaccessible to accessible. Or you can learn design, UXUI, and tell others how to layout their sites. Adding JavaScript means that you can also code.",
   },
